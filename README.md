@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am Djordje Stojanovic.   Frontend developer.
+I am Djordje Stojanovic.  
+Frontend developer.
 
-🔭 I’m currently working with Angular & NativeScript  
-📫 How to reach me: djordje100janovic@gmail.com
+🔭  I’m currently working with Angular & NativeScript  
+📫  djordje100janovic@gmail.com
 
 <!--
 **100janovic/100janovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
