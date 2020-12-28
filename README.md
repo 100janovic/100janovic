@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Djordje Stojanovic. Frontend developer.
+I am Djordje Stojanovic.   Frontend developer.
 
-🔭 I’m currently working with Angular & NativeScript
+🔭 I’m currently working with Angular & NativeScript  
 📫 How to reach me: djordje100janovic@gmail.com
 
 <!--
