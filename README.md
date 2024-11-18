@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-I am Djordje Stojanovic.  
-Frontend developer.
+I am Djordje Stojanovic,<br/>
+Senior Frontend Developer, Angular Tech Lead at HTEC Group.<br/>
+Founder of [frontendbuilders](https://frontendbuilders.com/)<br/><br/>
 
-🔭  I’m currently working with Angular & NativeScript  
-📫  djordje100janovic@gmail.com
+#### Technologies I like to work with:<br/>
+⭐️⭐️ Frontend (Angular, React, Next.js, Typescript, SCSS),<br/>
+⭐️ Backend (PHP, MySQL, Node.js).<br/>
+
+
+#### I used to work with<br/>
+📱 Mobile (PWA, NativeScript)<br/>
+
+
+#### Wish to learn more:<br/>
+🙄 Socket.io, PixiJs, Analog.js<br/>
+
+<br/><br/>
+Say hello at: [Linkedin](https://www.linkedin.com/in/djordje100janovic/)
 
 <!--
 **100janovic/100janovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
