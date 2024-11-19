@@ -2,7 +2,7 @@
 
 I am Djordje Stojanovic,<br/>
 Senior Frontend Developer, Angular Tech Lead at HTEC Group.<br/>
-Founder of [frontendbuilders](https://frontendbuilders.com/)<br/><br/>
+Creator of [frontendbuilders](https://frontendbuilders.com/)<br/><br/>
 
 #### Technologies I like to work with:<br/>
 ⭐️⭐️ Frontend (Angular, React, Next.js, Typescript, SCSS),<br/>
